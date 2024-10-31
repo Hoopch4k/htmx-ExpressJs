@@ -1,0 +1,30 @@
+{
+  "name": "books",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "dependencies": {
+    "bytes": "^3.1.2",
+    "content-type": "^1.0.5",
+    "depd": "^2.0.0",
+    "destroy": "^1.2.0",
+    "ee-first": "^1.1.1",
+    "encodeurl": "^2.0.0",
+    "es-errors": "^1.3.0",
+    "escape-html": "^1.0.3",
+    "etag": "^1.8.1",
+    "express": "^4.21.1",
+    "forwarded": "^0.2.0",
+    "fresh": "^0.5.2",
+    "function-bind": "^1.1.2",
+    "node": "^22.10.0",
+    "nodemon": "^3.1.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hoopch4ik",
+  "license": "ISC"
+}
